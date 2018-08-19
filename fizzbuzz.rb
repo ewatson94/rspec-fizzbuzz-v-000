@@ -3,5 +3,6 @@
 def fizzbuzz
  if fizzbuzz(3)
  puts "Fizz" 
- prints "Buzz"
+ elsif fizzbuzz(5)
+ puts "Buzz"
 end
