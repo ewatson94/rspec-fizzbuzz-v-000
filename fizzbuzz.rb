@@ -7,4 +7,5 @@ def fizzbuzz
  puts "Buzz"
  else fizzbuzz(15)
    puts "Fizzbuzz"
+ end
 end
